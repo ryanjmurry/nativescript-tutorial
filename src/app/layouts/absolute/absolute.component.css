@@ -1,0 +1,22 @@
+AbsoluteLayout {
+  border-width: 5;
+  border-color: purple;
+  height: 100%;
+}
+
+Label {
+  width: 50;
+  height: 50;
+}
+
+#i1 {
+  background: red
+}
+
+#i2 {
+  background: green;
+}
+
+#i3 {
+  background: blue;
+}

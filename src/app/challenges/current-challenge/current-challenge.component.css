@@ -1,0 +1,14 @@
+.title {
+  font-size: 50;
+  text-align: center;
+  color: darkslateblue;
+  font-weight: bold;
+  margin-top: 10;
+}
+
+.text-field {
+  border-bottom-width: 3px;
+  border-bottom-color: saddlebrown;
+  margin: 20 0;
+  padding: 8 4;
+}

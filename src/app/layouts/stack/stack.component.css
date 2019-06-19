@@ -1,0 +1,23 @@
+StackLayout {
+  border-width: 10;
+  border-color: purple;
+  padding: 10;
+  height: 300;
+}
+
+Label {
+  width: 50;
+  height: 50;
+}
+
+#i1 {
+  background: red
+}
+
+#i2 {
+  background: green;
+}
+
+#i3 {
+  background: blue;
+}

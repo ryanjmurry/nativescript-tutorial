@@ -1,0 +1,29 @@
+GridLayout {
+  border-width: 5;
+  border-color: purple;
+}
+
+Label {
+  /* width: 50;
+  height: 50; */
+}
+
+#i1 {
+  background: red
+}
+
+#i2 {
+  background: green;
+}
+
+#i3 {
+  background: blue;
+}
+
+#i4 {
+  background: orange;
+}
+
+#i5 {
+  background: yellow;
+}
